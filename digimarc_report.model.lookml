@@ -22,8 +22,7 @@
 - explore: category
 
 - explore: clientusage
-
-
+  access_filter_fields: [clientusage.client_id]
 
 
 - explore: deletedtriggers
